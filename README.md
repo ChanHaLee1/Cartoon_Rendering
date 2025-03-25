@@ -6,4 +6,6 @@ My simple cartoon rendering using OpenCV
 • 자신의 알고리즘으로 만화 같은 느낌이 잘 표현되지 않는 이미지 데모
 • 자신의 알고리즘의 한계점에 대해 작성
 
-이미지 원본 : https://blog.naver.com/o_o1o_o2/50110515550
+이미지 원본
+쵸파 : https://blog.naver.com/o_o1o_o2/50110515550
+루피 : https://kr.3dexport.com/3dmodel-monkey-d-luffy-one-piece-391317.html
